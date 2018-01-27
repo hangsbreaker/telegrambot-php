@@ -1,6 +1,6 @@
 <?php
 // masukan nomor token Anda di sini
-// Token telegram UMSIDAbot
+// Token telegram
 define('TOKEN','[YOUR_TOKEN]');
 // coba chat
 // https://api.telegram.org/bot[YOUR_TOKEN]/sendmessage?chat_id=[CHAT_ID]&text=hi
